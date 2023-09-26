@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/odyssey-landingPage/static/css/main.04801c64.css",
+    "main.js": "/odyssey-landingPage/static/js/main.2364d9b5.js",
+    "index.html": "/odyssey-landingPage/index.html",
+    "main.04801c64.css.map": "/odyssey-landingPage/static/css/main.04801c64.css.map",
+    "main.2364d9b5.js.map": "/odyssey-landingPage/static/js/main.2364d9b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04801c64.css",
+    "static/js/main.2364d9b5.js"
+  ]
+}
