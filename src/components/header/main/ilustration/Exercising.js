@@ -7,7 +7,7 @@ import React from 'react';
 
 function Exercising() {
   return (
-    <div className=' bottom-[186px] -left-[26px] ilustrCards lg:gap-[28px] p-[10px] w-[149px] h-[97px] lg:w-[211px] xl:w-[266px] lg:h-[145px]  bg-white   lg:p-5  lg:left-[26px] lg:bottom-[298px] '>
+    <div className=' anima bottom-[186px] -left-[26px] ilustrCards lg:gap-[28px] p-[10px] w-[149px] h-[97px] lg:w-[211px] xl:w-[266px] lg:h-[145px]  bg-white   lg:p-5  lg:left-[26px] lg:bottom-[298px] '>
       <div className='flex items-center gap-[12px] lg:gap-5 normalText'>
         <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
     <rect width="40" height="40" rx="12" fill="#A9C2CB"/>
